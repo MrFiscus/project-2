@@ -1,2 +1,1 @@
-# project-2
-@san-test
+https://mrfiscus.github.io/project-2/
